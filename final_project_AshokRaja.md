@@ -7,6 +7,7 @@ I want to start of by showing the top categories make up import and export and t
 
 Initial sketches:
 
+![Initial Skethches](https://github.com/ashokraja123/visualizations/blob/master/INittial%20design%20sketches-cropped.jpg)
 
 The data:
 
