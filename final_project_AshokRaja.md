@@ -7,7 +7,8 @@ I want to start of by showing the top categories make up import and export and t
 
 ## Initial sketches:
 
-![Initial Skethches](https://github.com/ashokraja123/visualizations/blob/master/INittial%20design%20sketches-cropped.jpg)
+![Initial Skethches](https://ashokraja123.github.io/visualizations/INittial%20design%20sketches-cropped.jpg)
+
 
 
 ## The data:
@@ -18,3 +19,40 @@ Link: https://www.kaggle.com/lakshyaag/india-trade-data/downloads/india-trade-da
 ## Method and medium:
 
 I will be using Shorthand to create a story board to start at the macro level and using visualizations, slowly work my way down to the specific call to action categories that need attention.
+
+## Initial Wireframe:
+
+
+
+
+
+## Survey Document:
+
+
+
+
+
+## Survey Responses:
+
+
+
+
+
+## Revised Wireframe:
+
+
+
+
+
+
+## MoodBoard:
+
+
+
+
+
+## Color Pallette:
+
+
+
+
