@@ -22,20 +22,22 @@ I will be using Shorthand to create a story board to start at the macro level an
 
 ## Initial Wireframe:
 
-
+![Initial Wireframe](https://ashokraja123.github.io/visualizations/Wireframe%20iteration%201-cropped.jpeg)
 
 
 
 ## Survey Document:
 
-
+![Survey Page 1](https://ashokraja123.github.io/visualizations/Survey-1.JPG)
+![Survey Page 2](https://ashokraja123.github.io/visualizations/Survey-2.JPG)
 
 
 
 ## Survey Responses:
 
-
-
+![Responce 1](https://ashokraja123.github.io/visualizations/Responce-1.jpeg)
+![Responce 2](https://ashokraja123.github.io/visualizations/Responce-2.jpg)
+![Responce 3](https://ashokraja123.github.io/visualizations/Responce-3.jpg)
 
 
 ## Revised Wireframe:
