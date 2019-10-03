@@ -42,19 +42,20 @@ I will be using Shorthand to create a story board to start at the macro level an
 
 ## Revised Wireframe:
 
-
+![Revised Wireframe](https://ashokraja123.github.io/visualizations/Wireframe-Revised.jpg)
 
 
 
 
 ## MoodBoard:
 
-
+![Revised Wireframe](https://ashokraja123.github.io/visualizations/MoodBoard.png)
 
 
 
 ## Color Pallette:
 
 
+![Revised Wireframe](https://ashokraja123.github.io/visualizations/COLOR%20PALLETTE.png)
 
 
