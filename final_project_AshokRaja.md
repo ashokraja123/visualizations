@@ -58,4 +58,9 @@ I will be using Shorthand to create a story board to start at the macro level an
 
 ![Revised Wireframe](https://ashokraja123.github.io/visualizations/COLOR%20PALLETTE.png)
 
+# Final Data  story
+The main audience for this are people of voting age who would like to see a cause to rally behind to make meaningful change. This can also be looked at from a wider lense to raise awareness about what the major trade categories are and where to make changes. It also highlights the end result for going green and moving to more renewable energy sources and reducing polution and making an impact on climate change.
+The task was much more time consuimg that I originally planned for. It has gotten me ininto thinking more about certain areas that I had not considered before, regarding color, simplification, making the point, etc. One major change I made between the finalized wireframes and the storyboard would be the last few visuals on the oppotuities. I was expecting more categories but the data was more realistic with Oil and Electronics being the biggest movers.
+
+Link to the final story: https://carnegiemellon.shorthandstories.com/araja1/index.html
 
