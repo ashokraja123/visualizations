@@ -29,7 +29,8 @@ Changing Music Media:
 
 **Wireframe**
 
-![Wireframe](https://github.com/ashokraja123/visualizations/blob/master/wireframe.jpg)
+![Wireframe](https://ashokraja123.github.io/visualizations/wireframe.jpg)
+
 
 **Re-Design**
 
