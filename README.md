@@ -15,3 +15,42 @@ https://ashokraja123.github.io/visualizations/
 
 ## What I hope to learn:
                 I am not a creative person so dashboards/colors and visuals are difficult for me. I am hoping to put some lean on some logic and rules to improve in this weak area.
+
+
+#Sample Visualizations:
+
+## Using RawGraphics
+
+###Changing Music Media
+
+https://ashokraja123.github.io/visualizations/changing_music_media.md
+
+###Titanic
+
+https://ashokraja123.github.io/visualizations/titanic.md
+
+
+## Using DataWrapper
+
+### Critique by design
+
+https://ashokraja123.github.io/visualizations/critiquebydesign.md
+
+### Left Click
+
+https://ashokraja123.github.io/visualizations/left_click.md
+
+
+### Truct News
+
+https://ashokraja123.github.io/visualizations/trust_news.md
+
+
+## Government Debt Visualization
+
+https://ashokraja123.github.io/visualizations/dataviz2.md
+
+
+# Final Project:
+
+https://ashokraja123.github.io/visualizations/final_project_AshokRaja.md
