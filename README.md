@@ -1,10 +1,4 @@
-# visualizations
-
-This is for my work for Telling Stories with Data class
-
-# Link to site:
-
-[Link to site](https://ashokraja123.github.io/visualizations/)
+# My Portfolio
 
 ## About me:
 >My name is Ashok Raja ( pronounced exactly as it is spelled). I did my undergraduate degreee in Textile Engineering, my MBA in Finance and I am currently pursuing my MS in Business intelligence and Data Analytics from CMU.
