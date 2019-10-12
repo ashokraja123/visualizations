@@ -25,6 +25,6 @@ I have been working for Mylan Pharmaceuticals for the last 4 years, my experianc
 [Government Debt Visualization](https://ashokraja123.github.io/visualizations/dataviz2.md)
 
 
-## Final Project:
+## Final Project
 
 [India Trade](https://ashokraja123.github.io/visualizations/final_project_AshokRaja.md)
